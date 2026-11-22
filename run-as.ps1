@@ -11,11 +11,11 @@ param(
 
 $ResolvedCommand = Get-Command $Command -ErrorAction SilentlyContinue
 
-Write-Host "ResolvedCommand = " $ResolvedCommand
-Write-Host "ResolvedCommand.Source = " $ResolvedCommand.Source
-Write-Host "ResolvedCommand.Path = " $ResolvedCommand.Path
+# Write-Output "ResolvedCommand = " $ResolvedCommand
+Write-Output "ResolvedCommand.Source = $($ResolvedCommand.Source)"
+Write-Output "ResolvedCommand.Path = $($ResolvedCommand.Path)"
 
-Write-Host "User = " $User
+Write-Output "User = $User"
 
 <#
 $cred = Get-Credential -UserName $User

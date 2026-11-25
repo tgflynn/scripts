@@ -1,0 +1,11 @@
+ [Environment]::GetEnvironmentVariables('User')
+
+Name                           Value
+----                           -----
+OneDrive                       C:\Users\tgf31\OneDrive
+OneDriveConsumer               C:\Users\tgf31\OneDrive
+TMP                            C:\Users\tgf31\AppData\Local\Temp
+TEMP                           C:\Users\tgf31\AppData\Local\Temp
+Path                           C:\Users\tgf31\.local\bin;C:\Users\tgf31\AppData\Local\Microsoft\WindowsApps;C:\Users\t…
+
+PS C:\Users\tgf31\Projects\Tarot-Github\Tarot>

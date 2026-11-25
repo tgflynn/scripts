@@ -1,0 +1,46 @@
+
+Name                           Value
+----                           -----
+ALLUSERSPROFILE                C:\ProgramData
+APPDATA                        C:\Users\tgf31\AppData\Roaming
+CommonProgramFiles             C:\Program Files\Common Files
+CommonProgramFiles(x86)        C:\Program Files (x86)\Common Files
+CommonProgramW6432             C:\Program Files\Common Files
+COMPUTERNAME                   HECATE
+ComSpec                        C:\Windows\system32\cmd.exe
+DriverData                     C:\Windows\System32\Drivers\DriverData
+EFC_8032_1592913036            1
+EFC_8032_2397410445            1
+EFC_8032_4126798990            1
+HOMEDRIVE                      C:
+HOMEPATH                       \Users\tgf31
+LOCALAPPDATA                   C:\Users\tgf31\AppData\Local
+LOGONSERVER                    \\HECATE
+NUMBER_OF_PROCESSORS           8
+OneDrive                       C:\Users\tgf31\OneDrive
+OneDriveConsumer               C:\Users\tgf31\OneDrive
+OS                             Windows_NT
+Path                           C:\Program Files\PowerShell\7;C:\Program Files (x86)\Embarcadero\Studio\37.0\bin;C:\User…
+PATHEXT                        .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+POWERSHELL_DISTRIBUTION_CHANN… MSI:Windows 10 Home
+PROCESSOR_ARCHITECTURE         AMD64
+PROCESSOR_IDENTIFIER           AMD64 Family 23 Model 160 Stepping 0, AuthenticAMD
+PROCESSOR_LEVEL                23
+PROCESSOR_REVISION             a000
+ProgramData                    C:\ProgramData
+ProgramFiles                   C:\Program Files
+ProgramFiles(x86)              C:\Program Files (x86)
+ProgramW6432                   C:\Program Files
+PSModulePath                   C:\Users\tgf31\OneDrive\Documents\PowerShell\Modules;C:\Program Files\PowerShell\Modules…
+PUBLIC                         C:\Users\Public
+SESSIONNAME                    Console
+SystemDrive                    C:
+SystemRoot                     C:\Windows
+TEMP                           C:\Users\tgf31\AppData\Local\Temp
+TMP                            C:\Users\tgf31\AppData\Local\Temp
+USERDOMAIN                     HECATE
+USERDOMAIN_ROAMINGPROFILE      HECATE
+USERNAME                       tgf31
+USERPROFILE                    C:\Users\tgf31
+windir                         C:\Windows
+
